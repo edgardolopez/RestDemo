@@ -1,0 +1,16 @@
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\bin\Debug\Rest.dll.config
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\bin\Debug\Rest.dll
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\bin\Debug\Rest.pdb
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\bin\Debug\Newtonsoft.Json.dll
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\bin\Debug\System.Net.Http.dll
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\bin\Debug\System.Net.Http.Extensions.dll
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\bin\Debug\System.Net.Http.Formatting.dll
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\bin\Debug\System.Net.Http.Primitives.dll
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\bin\Debug\System.Net.Http.WebRequest.dll
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\bin\Debug\Newtonsoft.Json.xml
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\bin\Debug\System.Net.Http.xml
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\bin\Debug\System.Net.Http.WebRequest.xml
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\obj\Debug\Rest.csprojResolveAssemblyReference.cache
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\obj\Debug\Rest.csproj.CoreCompileInputs.cache
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\obj\Debug\Rest.dll
+D:\TFSPersonal\RestDemo\Source\REST_Example-master\RestService\obj\Debug\Rest.pdb

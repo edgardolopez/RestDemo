@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleAPI", "ExampleAPI\ExampleAPI.csproj", "{D46605A2-4775-4C29-A3F1-067E8AA60026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleDesktop", "ExampleDesktop\ExampleDesktop.csproj", "{688B9D16-FF59-4460-ADD2-20A699398E62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{DC66D412-C563-473E-8FF9-244706D111D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rest", "RestService\Rest.csproj", "{B9BA8251-DAC1-4553-8D3C-D8E75EFB23ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D46605A2-4775-4C29-A3F1-067E8AA60026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46605A2-4775-4C29-A3F1-067E8AA60026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46605A2-4775-4C29-A3F1-067E8AA60026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46605A2-4775-4C29-A3F1-067E8AA60026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{688B9D16-FF59-4460-ADD2-20A699398E62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{688B9D16-FF59-4460-ADD2-20A699398E62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{688B9D16-FF59-4460-ADD2-20A699398E62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{688B9D16-FF59-4460-ADD2-20A699398E62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC66D412-C563-473E-8FF9-244706D111D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC66D412-C563-473E-8FF9-244706D111D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC66D412-C563-473E-8FF9-244706D111D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC66D412-C563-473E-8FF9-244706D111D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9BA8251-DAC1-4553-8D3C-D8E75EFB23ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9BA8251-DAC1-4553-8D3C-D8E75EFB23ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9BA8251-DAC1-4553-8D3C-D8E75EFB23ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9BA8251-DAC1-4553-8D3C-D8E75EFB23ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CC9FC90-CFA4-4A6D-AF57-18F03DEEF178}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://casiopeamock.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ExampleAPI\\ExampleAPI.csproj
+		SccProjectName1 = ExampleAPI
+		SccLocalPath1 = ExampleAPI
+		SccProjectUniqueName2 = ExampleDesktop\\ExampleDesktop.csproj
+		SccProjectName2 = ExampleDesktop
+		SccLocalPath2 = ExampleDesktop
+		SccProjectUniqueName3 = Model\\Model.csproj
+		SccProjectName3 = Model
+		SccLocalPath3 = Model
+		SccProjectUniqueName4 = RestService\\Rest.csproj
+		SccProjectName4 = RestService
+		SccLocalPath4 = RestService
+	EndGlobalSection
+EndGlobal
